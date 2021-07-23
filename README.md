@@ -1,6 +1,6 @@
 <p align="center">
  <h2 align="center">Insight - Weather of Mars</h2>
- <h3 align="center">SamiunNafis.github.io</h3>
+ <h3 align="center">SamiunNafis.github.io/insight</h3>
 </p>
 
 <p align="center">
